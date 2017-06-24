@@ -1,0 +1,7 @@
+.hero {
+	height: 80vh;
+	background-color: #eee;
+	background-image: url(https://s3-us-west-2.amazonaws.com/imageassetsforbg/BG.jpg);
+	background-size: cover;
+	background-position: center center;
+}

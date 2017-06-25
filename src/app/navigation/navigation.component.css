@@ -33,9 +33,7 @@ a {
 	background-color: #001f3f;
 	color: white;
 	font-family: helvetica;
-	text-decoration: uppercase;
-	z-index: 999;
-	
+	text-decoration: uppercase;	
 }
 
 .nav-bar .container {
@@ -64,4 +62,6 @@ a {
 	height: 100%;
 
 }
+
+
 
